@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&family=Raleway:wght@100;300&display=swap');
+
+body {
+  font-family: 'Jost', sans-serif;;
+}
+
+img {
+  margin-left: 20px;
+  width: 80%;
+}
+
+.sect {
+  border-top: 1px solid #eee;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.head {
+  margin-bottom: 50px;
+}
+
+.date {
+  list-style: none;
+  font-size: smaller;
+  margin-left: 22px;
+  margin-bottom: 18px;
+  margin-top: -10px;
+  opacity: 60%;
+}
+
+.date-desc {
+  list-style: none;
+  font-size: smaller;
+  margin-left: 22px;
+  /* margin-bottom: 18px; */
+  margin-top: -10px;
+  opacity: 60%;
+}
+
+.description {
+  list-style: none;
+  font-size: smaller;
+  margin-left: 22px;
+  margin-bottom: 18px;
+  margin-top: -10px;
+  opacity: 60%;
+}
+
+.foot {
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+}
